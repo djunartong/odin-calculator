@@ -51,6 +51,6 @@ button {
     background-color: orange;
 }
 
-.num {
+.num, .sign, .decimal {
     background-color: rgb(110, 108, 108);
 }
